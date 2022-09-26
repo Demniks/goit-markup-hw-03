@@ -228,7 +228,7 @@ body {
 }
 
 .benefits-item {
-  flex-basis: calc(100% / 4 );
+  flex-basis: calc((100% - 90px) / 4);
 }
 
 .benefits-text {
